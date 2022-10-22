@@ -7,3 +7,7 @@
 - Delete a furniture: `DELETE /api/furnitures/:id`
 - Update a furniture condition: `GET /api/furnitures/:id/set-condition?condition=<CONDITION>`
 - Sell a furniture: `GET /api/furnitures/:id/sell`
+
+SuperUser credentials:
+username: rotour
+password: dddddd
